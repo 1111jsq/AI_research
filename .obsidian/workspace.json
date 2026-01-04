@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "AI挣钱思路/【2026-1】AI挣钱思路整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "【2026-1】AI挣钱思路整理"
             }
           }
         ]
@@ -185,11 +185,14 @@
   },
   "active": "eed40336bc395648",
   "lastOpenFiles": [
+    "Agent相关资讯/2026/【2026-1】强化学习学习路径.md",
+    "AI挣钱思路/【2026-1】AI挣钱思路整理.md",
+    "AI挣钱思路",
+    "README.md",
     "Agent相关资讯/2026/【2026-1】google 语义生成工作流.md",
     "Agent相关资讯/2026/【2026-1】开源记忆库：Hindsight.md",
     "Agent相关资讯/2026/【2026-1】Memory in the Age of AI Agents，A Survey解读.md",
     "Agent相关资讯/2026/【2026-1】Boris Cherny的Claude code使用经验.md",
-    "README.md",
     "Agent相关资讯/2026",
     "Agent相关资讯"
   ]
